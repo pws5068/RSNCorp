@@ -1,0 +1,9 @@
+ErrorDocument 404 /page/pageNotFound.php
+
+<IfModule mod_suphp.c>
+suPHP_ConfigPath /home/svision/public_html/rsncorp.com/
+<Files php.ini>
+order allow,deny
+deny from all
+</Files>
+</IfModule> 

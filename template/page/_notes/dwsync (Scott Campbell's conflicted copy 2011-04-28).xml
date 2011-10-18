@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="createSupplier.tpl" server="www.rsncorp.com//" local="129468495279624073" remote="129468459000000000" />
+<file name="editSupplier.tpl" server="www.rsncorp.com//" local="129468495594782099" remote="129468459000000000" />
+<file name="suppliers.tpl" server="www.rsncorp.com//" local="129468508132439212" remote="129468471600000000" />
+<file name="viewSupplier.tpl" server="www.rsncorp.com//" local="129468523509188712" remote="129468487200000000" />
+<file name="viewAuction.tpl" server="www.rsncorp.com//" local="129485088843907932" remote="129485052600000000" />
+<file name="createAuction.tpl" server="www.rsncorp.com//" local="129478977585427102" remote="129478941600000000" />
+<file name="allAuctions.tpl" server="www.rsncorp.com//" local="129484097617044347" remote="129484061400000000" />
+<file name="login.tpl" server="silvisions.com//" local="129482174684827191" remote="129482138400000000" />
+<file name="registerCustomer.tpl" server="silvisions.com//" local="129482187556737665" remote="129482151600000000" />
+<file name="expiredAuctions.tpl" server="www.rsncorp.com//" local="129484139528266057" remote="129484103400000000" />
+<file name="login.tpl" server="www.rsncorp.com//" local="129483898436596735" remote="129483862200000000" />
+<file name="cart.tpl" server="www.rsncorp.com//" local="129484856352213706" remote="129484820400000000" />
+<file name="viewItem.tpl" server="www.rsncorp.com//" local="129484773692355833" remote="129484737600000000" />
+<file name="viewItem.tpl" server="silvisions.com//" local="129485089501423742" remote="129485053200000000" />
+<file name="checkout.tpl" server="silvisions.com//" local="129485105499739580" remote="129485069400000000" />
+</dwsync>
